@@ -109,7 +109,7 @@ function buildAndShowHomeHTML (categories) {
       // variable's name implies it expects.
       // var chosenCategoryShortName = ....
 
-		insertProperty (homeHtml, "randomCategoryShortName", shortName);
+		insertProperty (homeHtml, "randomCategoryShortName", 'F');
 		//ert(shortName);
 		
 		
