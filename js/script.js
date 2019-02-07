@@ -116,7 +116,7 @@ shortName = sname ;
 //alert (shortName);
 html = insertProperty (html,"randomCategoryShortName",shortName);
 homeHtml = html;
-		alert(homeHtml);
+		//alert(homeHtml);
 		
 		//ert(shortName);
 		
@@ -136,7 +136,7 @@ homeHtml = html;
 	 
 	 html = insertHtml("#main-content", homeHtml);
 	homeHtml = html;
-	alert(homeHtml);
+	//alert(homeHtml);
       // TODO: STEP 4: Insert the the produced HTML in STEP 3 into the main page
       // Use the existing insertHtml function for that purpose. Look through this code for an example
       // of how to do that.
